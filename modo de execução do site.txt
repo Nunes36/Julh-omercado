@@ -1,0 +1,21 @@
+site Julhão Mercado
+
+	Layouts
+
+- tela principal - ok
+- tela de compras das categorias
+- tela de combos 
+- tela login
+- tela cadastro (incluir localização)
+- tela de formas de pagamentos
+- tela quem somos
+- tela de confirmação de identidade
+- tela de carrinho de compras
+- tela do produto para compra
+- tela perfil
+- tela adiministração (dashboard) 
+
+	Funções de cada página
+
+
+ 
